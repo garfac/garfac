@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @garfac
+- 👀 I’m interested in cloud native architecture
+- 🌱 I’m currently learning more about serverless architectures on AWS and Azure and implementing JAMStack solutions
+- 💞️ I’m looking to collaborate on projects that have benefit to society, such as renewable energy
+- 📫 Send me a DM on Twitter @garfac
+
+<!---
+garfac/garfac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
