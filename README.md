@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garfac
 - 👀 I’m interested in cloud native architecture and digital architecture
-- 🌱 I’m currently learning more about serverless architectures on AWS and Azure and implementing JAMStack solutions
+- 🌱 I’m currently doing application architectures on AWS and Azure
 - 💞️ I’m looking to collaborate on projects that have benefit to society, such as renewable energy, health and fitness
 - 📫 Send me a DM on Twitter @garfac
 
